@@ -9,7 +9,7 @@
         <img src="https://img.shields.io/badge/Repo-Retired-green" alt="Mainteinance yes" />
       </a>
       <a href="#">
-        <img src="https://img.shields.io/badge/Author-Xenx-yellow" alt="Author" />
+        <img src="https://img.shields.io/badge/Author-Fynks-yellow" alt="Author" />
       </a>
 </p>
 
