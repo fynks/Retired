@@ -6,10 +6,10 @@
 <p align="center">
     <!-- mainteinance -->
       <a href="#">
-        <img src="https://img.shields.io/badge/Repo-Retired-green" alt="Mainteinance yes" />
+        <img src="https://img.shields.io/badge/Repo-Retired-green?style=flat-square&logo=github" alt="Repo-name" />
       </a>
       <a href="#">
-        <img src="https://img.shields.io/badge/Author-Fynks-yellow" alt="Author" />
+        <img src="https://img.shields.io/badge/Author-Fynks-lightblue?style=flat-square&logo=atom" alt="Author-Fynks" />
       </a>
 </p>
 
@@ -17,4 +17,4 @@
 
 
 
-                                                               Aliglelo © 2020
+                                                               Fynks © 2020
